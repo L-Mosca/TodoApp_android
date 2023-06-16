@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Todo_app</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_assets">Assets</string>
+    <string name="menu_help_center">Help center</string>
+    <string name="menu_agents">Agents</string>
+    <string name="due_today">Due today</string>
+    <string name="sort_by">Sort By</string>
+    <string name="for_title">For</string>
+    <string name="overdue_status">overdue</string>
+    <string name="todo_status">to do</string>
+    <string name="open_status">open</string>
+    <string name="due_today_status">due today</string>
+
+    <!--Task Priority-->
+    <string name="task_priority_low">Low</string>
+    <string name="task_priority_medium">Medium</string>
+    <string name="task_priority_high">High</string>
+    <!--Task Priority-->
+
+    <!--Filter Screen-->
+    <string name="person_list_title">Person List</string>
+    <!--Filter Screen-->
+
+    <!--Create task screen-->
+    <string name="select_responsible">Selecione um responsável</string>
+    <string name="short_description">Descrição Rápida</string>
+    <string name="full_description">Descrição Completa</string>
+    <string name="create_task_title">Criar Nova Tarefa</string>
+    <string name="task_priority">Selecione a Prioridade:</string>
+    <string name="select_finish_date">Data de entrega</string>
+    <!--Create task screen-->
+
+</resources>
