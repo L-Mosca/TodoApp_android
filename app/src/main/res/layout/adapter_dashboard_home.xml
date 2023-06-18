@@ -81,12 +81,16 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="6dp"
             android:layout_marginEnd="12dp"
-            android:textColor="@color/gray_800"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@android:color/holo_red_light"
             android:textSize="14sp"
+            app:autoSizeMaxTextSize="14sp"
+            app:autoSizeMinTextSize="12sp"
             app:layout_constraintEnd_toStartOf="@id/tvTime"
             app:layout_constraintStart_toEndOf="@id/tvFor"
             app:layout_constraintTop_toTopOf="@id/tvFor"
-            tools:text="This is person name" />
+            tools:text="This is long, long, long, long, long, long, long long person name" />
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/tvTime"
